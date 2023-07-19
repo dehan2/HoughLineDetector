@@ -24,6 +24,9 @@
     <ClCompile Include="src\EdgeDetector.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="src\Point2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\HoughTransformer.hpp">
@@ -33,6 +36,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="include\ConstForHoughTransformer.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Point2.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
